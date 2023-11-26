@@ -1,5 +1,5 @@
 # Python-mini-project
-60 Python Projects with Source Code by Aman Kharwal
+Base on 60 Python Projects with Source Code by Aman Kharwal
 ## Contents
 ### Python Projects For Beginners:
 
