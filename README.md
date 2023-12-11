@@ -3,11 +3,11 @@ Base on 60 Python Projects with Source Code by Aman Kharwal
 ## Contents
 ### Python Projects For Beginners:
 
-1. Create Acronyms using Python
-2. Alarm Clock with Python
-3. Email Slicer with Python
-4. Story Generator with Python
-5. Generate Password with Python
+1. Number guessing game using Python
+2. Group Anagrams using Python
+3. Find missing number using Python
+4. Group Elements of Same Indices 
+5. Mean Median and Mode using Python
 6. Play Rock, Paper, and Scissors with Python
 7. Dice Roll Simulator
 8. QR Code Generator
