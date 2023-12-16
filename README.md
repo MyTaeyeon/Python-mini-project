@@ -8,7 +8,7 @@ Base on 60 Python Projects with Source Code by Aman Kharwal
 3. Find missing number using Python
 4. Group Elements of Same Indices 
 5. Mean Median and Mode using Python
-6. Play Rock, Paper, and Scissors with Python
+6. Alarm clock with Python
 7. Dice Roll Simulator
 8. QR Code Generator
 9. Animal Quiz Game
