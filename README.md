@@ -21,7 +21,7 @@ Base on 60 Python Projects with Source Code by Aman Kharwal
 ### Advance Python Projects:
 
 15. Digital Clock GUI
-2. Get Desktop Notifications with Python
+16. Get Desktop Notifications with Python
 3. Use Your Phone Camera for Computer Vision
 4. Music Player GUI
 5. Game of Life with Python
